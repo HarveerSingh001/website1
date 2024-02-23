@@ -29,7 +29,7 @@ body {
         height: 50px;
         width: 50px;
         cursor: pointer;
-        transition: transform 3s ease;
+        transition: transform 2s ease;
 }
     .search .input{
         background-color: white;
@@ -38,7 +38,6 @@ body {
         height: 50px;
         width: 200px;
         padding: 15px;
-        box-sizing: border-box;
         transition: width .3s ease;
 
     }
