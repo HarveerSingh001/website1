@@ -1,28 +1,28 @@
 
 *  {
-    box-sizing: border-box;
+
 }
 body {
    background-color: green;
    height: 100vh;
    display: flex;
-   align-it: center;
+   align-items: center;
    justify-content: center;
     margin: 0;
 }
 
 .search
         {
-            height: 200px;
-            width: 200px;
-            background-color: blue;
+            height: 100 px;
+            width: 100px;
+
             position: relative;
         }
 .search.btn {
     position: absolute;
         top: 0;
         bottom: 0;
-        left: 125 px;
+        left: 5 px;
         font-size: 25px;
         background-color:white;
         border: 0;
