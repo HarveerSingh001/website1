@@ -3,7 +3,7 @@
 
 }
 body {
-   background-color: green;
+   background-color: red;
    height: 100vh;
    display: flex;
    align-items: center;
@@ -18,11 +18,11 @@ body {
 
             position: relative;
         }
-.search.btn {
+.search .btn {
     position: absolute;
         top: 0;
         bottom: 0;
-        left: 5 px;
+        left: 50 px;
         font-size: 25px;
         background-color:white;
         border: 0;
