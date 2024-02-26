@@ -19,4 +19,7 @@ body{
     width: 100vw;
     background-color:blue;
     position: absolute;
+    z-index: -1;
+    background-image: url("images/unsplash.jpg");
 }
+
