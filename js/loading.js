@@ -13,6 +13,8 @@ function blurring(){
         clearInterval(int)
     }
     loadText.innerText = `${load}%`
+
+    
     loadText.style.opacity = 0.5
     bg.style.filter = "blur(10px)"
 
