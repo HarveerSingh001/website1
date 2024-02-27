@@ -3,10 +3,15 @@ bg = document.querySelector('.bg')
 
 load = 0
 
-int = setInterval(blurring, )
+int = setInterval(blurring, 30)
 
 function blurring(){
     load = load + 1
+
+
+    if (load > 99){
+        clearInterval(int)
+    }
     loadText.innerText = `${load}%`
     loadText.style.opacity = 0.5
     bg.style.filter = "blur(10px)"
