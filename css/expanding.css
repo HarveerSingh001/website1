@@ -4,14 +4,14 @@
 
 
 body{
-    height: 100vh;
+    height: 95vh;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
 }
 .container{
-    width: 90vw;
+    width: 100vw;
     display:flex;
 }
 .panel{
@@ -23,6 +23,6 @@ body{
     color: white;
     cursor: pointer;
     flex: 0.5;
-    margin: 10px;
+    margin: 15px;
 
 }
