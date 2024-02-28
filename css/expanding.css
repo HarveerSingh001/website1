@@ -24,10 +24,13 @@ body{
     cursor: pointer;
     flex: 0.5;
     margin: 15px;
+    position: relative;
 
 }
 
-.panel .h3
+.panel h3
 {
-    font-size: 100px;
+    font-size: 25px;
+    position: absolute;
+    bottom: 20px;
 }
