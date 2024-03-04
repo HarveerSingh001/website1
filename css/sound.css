@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: rgb(161,100,223)
+    background-color: purple;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -11,7 +11,7 @@ body{
 }
 
 .btn {
-    background-color: rebeccapurple;
+    background-color: violet;
     font-size: 1.2rem;
     padding: 1.5 rem;
     margin: 1rem;
