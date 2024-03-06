@@ -52,4 +52,23 @@ background-color: rgba(0, 0, 0, 0.5);
     letter-spacing: 1.2px;
 }
 
+.nav{
+    position: fixed;
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
+
+}
+.nav .container{
+    display: flex;
+    justify-content: space-between
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    padding: 20px 0;
+
+
+}
+
 
