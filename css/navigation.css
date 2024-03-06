@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 
 * {
     box-sizing: border-box;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: "VT323", monospace;
+
     color: #222;
     padding-bottom: 50px;
 }
@@ -60,7 +60,7 @@ body {
 }
 
 .content p {
-    color: #555;
+    color: white;
     line-height: 30px;
     letter-spacing: 1.2px;
 }
@@ -68,7 +68,7 @@ body {
 
 .nav {
     position: fixed;
-    background-color: #222;
+    background-color:#999;
     top: 0;
     left: 0;
     right: 0;
@@ -103,7 +103,7 @@ body {
 }
 
 .nav.active a {
-    color: black;
+    color: white;
 }
 
 .nav.active .container {
