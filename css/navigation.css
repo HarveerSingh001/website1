@@ -1,6 +1,4 @@
-*  {
-
-}
+*  
 body{
     color: #222;
     padding-bottom: 50px;
@@ -76,7 +74,7 @@ background-color: rgba(0, 0, 0, 0.5);
 
 }
 
-.nav .a{
+.nav.a{
     color:white;
     text-decoration: none;
     padding: 7px 15px;
@@ -84,6 +82,8 @@ background-color: rgba(0, 0, 0, 0.5);
 }
 
 
+.nav.active{
 
+}
 
 
