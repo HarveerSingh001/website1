@@ -1,4 +1,4 @@
-*  
+*
 body{
     color: #222;
     padding-bottom: 50px;
@@ -83,7 +83,15 @@ background-color: rgba(0, 0, 0, 0.5);
 
 
 .nav.active{
+background-color: white;
 
+}
+.nav.active.a{
+    color: black;
+
+}
+.nav.active .container{
+    padding: 10px 0;
 }
 
 
