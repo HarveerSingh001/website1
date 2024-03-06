@@ -94,5 +94,10 @@ box-shadow: 0 2px 10px rgba(0,0,0,0.3);
 .nav.active .container{
     padding: 10px 0;
 }
+.nav.container,
+.nav.hover{
+    font-weight:bold;
+    color: rgb(192,57,43);
+}
 
 
