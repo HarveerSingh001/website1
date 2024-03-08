@@ -57,3 +57,25 @@ nav ul li:nth-of-type(1){
     padding: 20px;
     border-bottom: 2px solid rbga(200,200,200,0.1);
 }
+header{
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 130%;
+    position: relative;
+    padding; 40px 15px;
+    text-align: center;
+
+
+}
+header h1{
+    margin: 30px 0;
+}
+
+button{
+    background-color: var
+    (--secondary-color);
+}
+
+
+
+}
