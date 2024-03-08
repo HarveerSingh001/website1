@@ -62,7 +62,7 @@ header{
     color: white;
     font-size: 130%;
     position: relative;
-    padding; 40px 15px;
+    padding: 40px 15px;
     text-align: center;
 
 
@@ -80,6 +80,12 @@ input[type='submit']
     border-radius: 5px;
     color: white;
     padding: 8px 12px;
+    cursor: pointer;
+}
+.toggle{
+    background-color:black;
+    opacity: 0.2;
+position: absolute;
 }
 
 
